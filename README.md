@@ -1,4 +1,4 @@
-# 2 🚀
+# TechLab 🚀
 
 Welcome to **TechLab**, a personal playground for coding, learning, and experimenting with various technologies. This repository serves as a collection of projects, code snippets, and examples that I explore during my journey as a Cloud Engineer.
 
